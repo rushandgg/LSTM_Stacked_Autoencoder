@@ -4,6 +4,8 @@
 **- Tool :** Python, Jupyter Notebook, Tensorflow, Keras<br/>
 **- Model :** LSTM Stacked Autoencoder<br/>
 **- Purpose :** Denoise stock price<br/>
+**- Reference :** Stacked LSTM Sequence-to-Sequence Autoencoder with Feature Selection <br/>
+      for Daily Solar Radiation Prediction: A Review and New Modeling Results
 <br/>
 # 1. Model Shapes
 
