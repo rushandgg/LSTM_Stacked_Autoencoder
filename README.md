@@ -1,9 +1,9 @@
 ﻿# LSTM Stacked Autoencoder
 
-**- Data Set : Samsung Electronics Stock Price(Close), 2016-01-04 ~ 2021-12-30**<br/>
-**- Tool : Python, Jupyter Notebook, Tensorflow, Keras**<br/>
-**- Model : LSTM Stacked Autoencoder**<br/>
-**- Purpose : Denoise stock price**<br/>
+**- Data Set :** Samsung Electronics Stock Price(Close), 2016-01-04 ~ 2021-12-30<br/>
+**- Tool :** Python, Jupyter Notebook, Tensorflow, Keras<br/>
+**- Model :** LSTM Stacked Autoencoder<br/>
+**- Purpose :** Denoise stock price<br/>
 <br/>
 # 1. Model Shapes
 
