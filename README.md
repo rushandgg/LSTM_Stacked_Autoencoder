@@ -8,8 +8,9 @@
       for Daily Solar Radiation Prediction: A Review and New Modeling Results
 <br/>
 <br/>
-**- I plan to... :** Output inverse_transform and estimate MSE, <br/>
-      Make a trading strategy with this graph
+**- I plan to... :** (1) Output inverse_transform and estimate MSE <br/>
+      (2) Make a trading strategy with this graph <br/>
+      (3) Develop trading program with securities's API <br/>
 # 1. Model Shapes
 
 ![model_shapes](https://user-images.githubusercontent.com/60992415/186334667-97bf0ec6-fb1f-44bd-b673-04559de97685.png)
