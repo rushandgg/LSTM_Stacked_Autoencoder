@@ -7,6 +7,9 @@
 **- Reference :** Stacked LSTM Sequence-to-Sequence Autoencoder with Feature Selection <br/>
       for Daily Solar Radiation Prediction: A Review and New Modeling Results
 <br/>
+<br/>
+**- I plan to... :** Output inverse_transform and estimate MSE, <br/>
+      Make a trading strategy with this graph
 # 1. Model Shapes
 
 ![model_shapes](https://user-images.githubusercontent.com/60992415/186334667-97bf0ec6-fb1f-44bd-b673-04559de97685.png)
