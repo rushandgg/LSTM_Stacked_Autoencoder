@@ -8,10 +8,10 @@
       for Daily Solar Radiation Prediction: A Review and New Modeling Results
 <br/>
 <br/>
-**- My Plan :** (1) Output inverse_transform and estimate MSE <br/>
+**- My Plan :**  (1) Output inverse_transform and estimate MSE <br/>
       (2) Make a trading strategy with this graph <br/>
       (3) Develop trading program with securities's API <br/>
-      (4) Kiwoon Securities https://www.kiwoom.com/h/main<br/>
+      (4) Kiwoon Securities https://www.kiwoom.com/h/main <br/>
       
 # 1. Model Shapes
 
